@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
  {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="appModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -14,27 +14,19 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
 <ul class="list-inline item-details">
-                                <li>Start date:
-                                    <strong>{{ post.project-date }}</strong>
+                                <li>Launch date:
+                                    <strong>{{ post.launch-date }}</strong>
                                 </li>
-                                <li>Duration:
-                                    <strong>{{ post.project-duration }}</strong>
-                                </li>
-                                <li>Project:
-                                    <strong>
-{% if post.project-url != blank %}
-    <a href="{{ post.project-url }}" target="_blank">
-{% endif %}
-{{ post.project-name }}
-{% if post.project-url != blank %}
-</a>
-{% endif %}
-</strong>
+                                <li>Development:
+                                    <strong>{{ post.dev_status }}</strong>
                                 </li>
                             </ul>
                             <hr class="star-primary">
                             <img src="img/app_screens/{{ post.screenshot }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.content }}</p>
+<a href="{{ post.app-url }}" target="_blank">
+<image src="img/google-play-badge.png"  class="img-responsive img-centered img-app-store-badge" alt="Play Store badge">
+</a>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

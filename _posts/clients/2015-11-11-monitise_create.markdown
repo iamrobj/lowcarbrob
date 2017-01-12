@@ -7,9 +7,16 @@ date: 2014-07-18
 img: monitise_create.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+screenshot: monitise_create.jpg
+project-date: Nov 2014
+project-duration: 2 months
+project-name: More
+project-url: 
 category: Client
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
 ---
+Sole Android developer rebuilding this whitelabel voucher code app.
+
+#####Things of note:
+
+* extremely high level of attention to detail
+* a number of custom built ui components

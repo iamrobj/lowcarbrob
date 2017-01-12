@@ -11,8 +11,10 @@ project-date: Feb 2014
 project-duration: 8 months
 project-name: Sportlobster App
 project-url: https://play.google.com/store/apps/details?id=com.sportlobster.android
-client: Start Bootstrap
 category: Client
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Built this app from the ground up, as part of a team of two, starting at version 0.1 all the way through to version 2.5.
+important_bits:
 
+    - abc
+    - xyz
 ---

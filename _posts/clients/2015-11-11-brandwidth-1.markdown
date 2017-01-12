@@ -6,10 +6,16 @@ modal-id: c-brandwidth
 date: 2014-07-18
 img: brandwidth.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+screenshot: brandwidth.jpg
+project-date: Nov 2015
+project-duration: 4 months
+project-name: Crew Nosh
+project-url: 
 category: Client
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
 ---
+Sole Android developer building this new & innovative meal ordering app for the airline industry.  This app actually won one of the first [DiVAs awards for Digital Achievement & Innovation](https://brandwidth.com/news/brandwidth-scoops-digital-achievement-innovation-award/).
+
+#####Things of note:
+
+* extremely high level of attention to detail
+* a number of custom built ui components
