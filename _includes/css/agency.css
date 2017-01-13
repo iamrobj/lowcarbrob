@@ -794,6 +794,10 @@ ul.social-buttons li a:active {
     font-size: 3em;
 }
 
+.portfolio-modal .modal-content h5 {
+    text-align: left;
+}
+
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
 }
@@ -808,6 +812,10 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
+}
+
+.portfolio-modal .modal-content li {
+    text-align: left;
 }
 
 .portfolio-modal .modal-content img {
@@ -869,4 +877,17 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.app-icon {
+    width:60%;
+    height:60%;
+}
+
+.app-header {
+    display:inline-block;
+}
+
+.img-client-logo {
+    padding: 0px 30px 0px 30px;
 }

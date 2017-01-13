@@ -22,11 +22,11 @@
                                 </li>
                                 <li>Project:
                                     <strong>
-{% if post.project-url != blank %}
+{% if post.project-url != null %}
     <a href="{{ post.project-url }}" target="_blank">
 {% endif %}
 {{ post.project-name }}
-{% if post.project-url != blank %}
+{% if post.project-url != null %}
 </a>
 {% endif %}
 </strong>

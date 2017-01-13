@@ -11,7 +11,7 @@ screenshot: monitise_create.jpg
 project-date: Nov 2014
 project-duration: 2 months
 project-name: More
-project-url: 
+project-url:
 category: Client
 ---
 Sole Android developer rebuilding this whitelabel voucher code app.
