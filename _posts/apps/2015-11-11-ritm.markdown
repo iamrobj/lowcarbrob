@@ -6,7 +6,7 @@ modal-id: a-ritm
 date: 2014-07-18
 icon: ritm.webp
 img: ritm.png
-thumbnail: dreams-thumbnail.png
+thumbnail: ritm.webp
 screenshot:
 launch-date: 2011
 dev_status: Ongoing

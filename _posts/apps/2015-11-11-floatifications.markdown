@@ -1,29 +1,21 @@
 ---
-title: ReadItToMe
-subtitle: Website Design
+title: Floatifications
 layout: default
-modal-id: a-ritm
+modal-id: a-floatifications
 date: 2014-07-18
-icon: ritm.webp
-img: ritm.png
-thumbnail: dreams-thumbnail.png
+icon: floatifications.webp
+img: floatifications.png
+thumbnail: floatifications.webp
 screenshot:
-launch-date: 2011
-dev_status: Ongoing
-app-url: https://play.google.com/store/apps/details?id=robj.readit.tomefree
+launch-date: 2013
+dev_status: Inactive
+app-url: https://play.google.com/store/apps/details?id=robj.floating.notifications
 category: App
 ---
-Reads out your incoming callers, sms messages and other app notifications, translating txt speak into normal language.  In ANY language.
+Floatifications is a new and intuitive way to view your notifications. It can take a notification from any app and present it to you as a floating icon, similar to Facebook chat heads, but for any application. It even works in fullscreen mode (in Games, Youtube etc) and is fully customizable.
 
 #####Featured on:
 
-* [Yahoo UK - _How to safely check your messages when driving_](https://uk.news.yahoo.com/how-to-safely-check-your-text-messages-when-195012568.html){:target="_blank"}
-* [Yahoo.com - _Best Android car apps_](https://www.yahoo.com/tech/dude-where-car-check-best-171552477.html){:target="_blank"}
-* [Lifehacker - _The best android apps to make driving safer, easier & more fun_](https://lifehacker.com/the-best-android-apps-to-make-driving-safer-easier-an-1755443280){:target="_blank"}
-* [Wondershare - _Top 5 apps to help you read Text Message hands-free_](https://drfone.wondershare.com/message/apps-read-text-message.html){:target="_blank"}
-* [Tom's Guide - _Best smart driving apps for dumb cars_](http://www.tomsguide.com/us/best-driving-apps,review-2794.html){:target="_blank"}
-* [Ghacks](http://www.ghacks.net/2013/05/06/readittome-for-android-reads-sms-calls-and-app-notifications-to-you/){:target="_blank"}
-* [Tech Republic](http://www.techrepublic.com/blog/smartphones/readittome-reads-your-sms-calls-and-app-notifications/){:target="_blank"}
-* [MakeUseOf](http://www.makeuseof.com/tag/readittome-for-android-hear-incoming-alerts-messages-notifications-spoken-aloud/){:target="_blank"}
-* [Phandroid](http://phandroid.com/2013/06/15/readittome-an-android-app-that-tries-to-free-your-hands/){:target="_blank"}
-* [Make Tech Easier](https://www.maketecheasier.com/read-out-sms-android/){:target="_blank"}
+* [The Next Web - _11 Android apps to make notifications more interesting_](http://thenextweb.com/apps/2014/04/19/11-android-apps-make-notifications-interesting/){:target="_blank"}
+* [CNET - _5 apps that put a twist on Android Notifications_](https://www.cnet.com/news/five-apps-that-put-a-twist-on-android-notifications/){:target="_blank"}
+* [Android Police](http://www.androidpolice.com/2014/01/14/floatifications-formerly-floating-notifications-gets-updated-to-v1-7-with-new-ticker-notifications-and-more/){:target="_blank"}
