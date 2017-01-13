@@ -13,9 +13,9 @@ project-name: Vanity Stash
 project-url: https://play.google.com/store/apps/details?id=com.seventeen.vanitystash
 category: Client
 ---
-Sole Android developer building this new & innovative meal ordering app for the airline industry.  This app actually won one of the first [DiVAs awards for Digital Achievement & Innovation](https://brandwidth.com/news/brandwidth-scoops-digital-achievement-innovation-award/).
+Sole Android developer building this up and coming startup's app.
 
 #####Things of note:
 
-* extremely high level of attention to detail
-* a number of custom built ui components
+* Highly image focused
+* Video streaming

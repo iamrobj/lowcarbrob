@@ -17,5 +17,5 @@ Sole Android developer building this new & innovative meal ordering app for the 
 
 #####Things of note:
 
-* extremely high level of attention to detail
-* a number of custom built ui components
+* Extremely high level of attention to detail
+* E number of custom built ui components

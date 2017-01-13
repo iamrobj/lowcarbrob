@@ -10,12 +10,12 @@ screenshot: orm_london.jpg
 project-date: Nov 2015
 project-duration: 3 months
 project-name: Wickes Trade App
-project-url: 
+project-url: https://play.google.com/store/apps/details?id=com.orm.wickes
 category: Client
 ---
-Sole Android developer building this new & innovative meal ordering app for the airline industry.  This app actually won one of the first [DiVAs awards for Digital Achievement & Innovation](https://brandwidth.com/news/brandwidth-scoops-digital-achievement-innovation-award/).
+Sole Android developer on this greenfield project.
 
 #####Things of note:
 
-* extremely high level of attention to detail
-* a number of custom built ui components
+* Barcode integration
+* Amazon Cognito integration

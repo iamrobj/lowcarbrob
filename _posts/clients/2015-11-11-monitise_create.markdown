@@ -15,8 +15,3 @@ project-url:
 category: Client
 ---
 Sole Android developer rebuilding this whitelabel voucher code app.
-
-#####Things of note:
-
-* extremely high level of attention to detail
-* a number of custom built ui components
