@@ -4,7 +4,6 @@ title: Low Carb Cheesecake
 date: 2016-05-24T17:45:45+00:00
 author: Rob J
 layout: post
-guid: http://www.slowcarbie.com/?p=159
 permalink: /low-carb-cheesecake/
 yuzo_related_post_metabox:
   - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
