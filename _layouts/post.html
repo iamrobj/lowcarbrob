@@ -12,7 +12,9 @@ layout: default
                             <img src="{{ "/images/posts/" | append: page.image | prepend: site.baseurl }}" alt="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}">
                         </div><!-- .post-thumbnail -->
                         {% endif %}
-<!--                        <h1 class="entry-title">{{page.title}}</h1> -->
+                        {% if page.show_title %}
+                            <h2 class="entry-title post-title" style="background-color:rgba({{ page.title-bg-color }}, 0.5); color:{{ page.title-text-color }};">{{page.title}}</h2> 
+                        {% endif %}
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
                         by <span class="post-author">{{site.author_name}}</span> on <time class="published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
