@@ -1,19 +1,9 @@
-  <footer>
-        <div class="container bg-darkest-gray">
-            <div class="row">
-                <div class="col-md-4">
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-            </div>
-        </div>
-    </footer>
+<footer class="site-footer">
+    <div class="inner">
+        {% include social.html %}
+        <div class="site-info">
+            &copy; <a href="{{ site.baseurl }}/">{{site.title}}</a> all rights reserved. <br />Powered by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a>. BlogInn theme by <a target="_blank" href="http://justgoodthemes.com/">JustGoodThemes</a>
+            <a href="#top" id="top-link" class="fa-chevron-up top-link square fill-horizontal"><span class="screen-reader-text">Back to the top</span></a>
+        </div><!-- .site-info -->
+    </div><!-- .inner -->
+</footer><!-- .site-footer -->

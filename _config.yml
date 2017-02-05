@@ -1,65 +1,78 @@
-url: https://iamrobj.github.io
-baseurl: /portfolio
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: Rob J
-email: rob@iamrobj.com
-description: "Rob J - Android Ninja"
+# Site title
+title: "Low Carb Rob"
 
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "Low carb recipes, tips & weekly round ups of the best on low carb from around the web."
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+# Tagline near the site title
+#tagline: "Thoughts, stories and ideas."
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+header_image: header.jpg
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl:
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/lowcarbrob
-#  - title: facebook
-#   url: http://twitter.com/lowcarbrob
-  - title: instagram
-    url: http://instagram.com/lowcarbrob
-  - title: linkedin
-    url: https://www.linkedin.com/in/therobj
-  - title: github
-    url: http://github.com/iamrobj
+sass:
+  sass_dir: _sass
 
-# Postal address (add as many lines as necessary)
-#address:
-#  - line: 3481 Melrose Place
-#  - line: Beverly Hills, CA 90210
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "http://lowcarbrob.com"
 
-# Build settings
-markdown: kramdown
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+#- text: Style Guides
+#  url: /style-guide/
+#- text: Archives
+#  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus: slowcarbie
+
+# Author information - author info at the bottom of the post
+author_name: "Rob J"
+author_bio: "Big time foodie, gym rat, traveler, spartan racer, amateur nutritionist & app developer 🤓     Everything I post is gluten free, sugar free & usually paleo friendly.  
+
+Catch me on social media below & say hi! 👇😎👋"
+author_url:  "http://lowcarbrob.com"
+author_location: "London, England"
+author_image: https://twitter.com/lowcarbrob/profile_image?size=original
+
+# Sidebar Add banner
+#banner_url: "http://justgoodthemes.com"
+#banner_image: images/banner.jpg
+
+# Sidebar newsletter widget - add your form action url for MailChimp signup form here
+#mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+
+# Social links in the site footer
+twitter_username: "lowcarbrob"
+facebook_username: "lowcarbrob"
+#googleplus_username: "+username"
+#github_username: "username"
+#codepen_username: "username"
+#dribbble_uername: "username"
+#medium_username: "@username"
+instagram_username: "lowcarbrob"
+#pinterest_username: "username"
+linkedin_username: "therobj"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+gems: [jekyll-paginate]
+
 permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false

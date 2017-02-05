@@ -1,20 +1,30 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
-
-    <body id="page-top" class="index">
-
-    {% include header.html %}
-    {% include portfolio_grid.html %}
-    {% include clients.html %}
-    <!--     % include about.html %
-    % include contact.html % -->
+<html lang="en">
+<head>
+    <meta charset="utf-8">    
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> 
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
+    <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+</head>
+<body>
+{% include top_nav.html %}
+    <header class="site-header">
+        <div class="inner">
+            <h1 class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">
+<img width="576" height="170" src="{{ site.baseurl }}/images/{{ site.header_image }}" />
+</a></h1>
+            <p class="site-description">{{site.tagline}}</p>
+        </div><!-- .inner -->
+    </header>
+    {{content}}
     {% include footer.html %}
-    {% include modals.html %}
-    {% include app_modals.html %}
-    {% include js.html %}
-
-    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/plugins.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/custom.js"></script>
+</body>
 </html>
