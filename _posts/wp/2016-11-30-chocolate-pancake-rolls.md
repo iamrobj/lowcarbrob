@@ -12,6 +12,8 @@ dsq_thread_id:
   - "5342875443"
 image: /wp-content/uploads/2016/11/choco_pancake_tw.jpg
 tags: [recipe]
+title-bg-color: '248, 255, 59'
+title-text-color: '#230303'
 ---
 <div>
   No time long post&nbsp;😃.. how&#8217;s it going?&nbsp; How&#8217;s life? &nbsp;Met your 2016 goals yet? &nbsp;If not, why not? &nbsp;2017 is just around the corner, there&#8217;s still time!! 😄
