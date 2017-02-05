@@ -4,7 +4,6 @@ title: 5 Minute Guacamole
 date: 2016-04-28T12:52:59+00:00
 author: Rob J
 layout: post
-guid: http://www.slowcarbie.com/?p=120
 permalink: /5-minute-guacamole/
 yuzo_related_post_metabox:
   - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
