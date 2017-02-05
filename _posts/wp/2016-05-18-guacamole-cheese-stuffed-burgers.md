@@ -18,7 +18,7 @@ For anyone whose gone gluten free though you&#8217;ll understand the difference 
 
 Hence this recipe. It&#8217;s full of protein, healthy fats and it tastes gooooood. In fact I made it 3 days in a row at one point, I might have got a little carried away.. Anyways, I figured I&#8217;d share it with you good people so we can all enjoy the low carb, gluten free, keto friendly goodness.. Enjoy! 🙂
 
-PS: For the guacamole be sure to check out my <a href="http://www.slowcarbie.com/5-minute-guacamole/" target="_blank">5 Minute Guacamole recipe</a>
+PS: For the guacamole be sure to check out my <a href="http://www.lowcarbrob.com/5-minute-guacamole/" target="_blank">5 Minute Guacamole recipe</a>
 
 <div id="wpurp-container-recipe-137" data-id="137" data-permalink="http://www.lowcarbrob.com/?post_type=recipe&p=137" data-custom-link="" data-custom-link-behaviour="" data-image="" data-servings-original="6" class="wpurp-container" style="margin:0 auto !important;padding-top:10px !important;padding-bottom:0px !important;padding-left:10px !important;padding-right:10px !important;max-width:600px !important;position:static !important;background-color:#ffffff !important;border-width:1px 0 0 0 !important;border-color:#aaaaaa !important;border-style:solid !important;vertical-align:inherit !important;font-size:14px !important;color:#1a1a1a !important;font-family:Open Sans, sans-serif !important;">
   <div class="wpurp-rows" style="position:static !important;text-align:inherit !important;vertical-align:inherit !important;">
