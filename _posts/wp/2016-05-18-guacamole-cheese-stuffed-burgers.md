@@ -4,7 +4,6 @@ title: 'Guacamole &#038; Cheese stuffed Burgers'
 date: 2016-05-18T13:22:10+00:00
 author: Rob J
 layout: post
-guid: http://www.slowcarbie.com/?p=133
 permalink: /guacamole-cheese-stuffed-burgers/
 yuzo_related_post_metabox:
   - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
