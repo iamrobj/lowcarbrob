@@ -27,10 +27,10 @@ url: "http://lowcarbrob.com"
 
 # Site navigation - each item must have a title and a url.
 navigation:
-- text: Home
-  url: /
-- text: About
-  url: /about/
+#- text: Home
+#  url: /
+#- text: About
+#  url: /about/
 #- text: Style Guides
 #  url: /style-guide/
 #- text: Archives
