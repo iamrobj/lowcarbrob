@@ -1062,3 +1062,15 @@ a.archive-top-link:hover {
 .nc-icon {
     display: none;
 }
+
+/** Recipe style **/
+
+.ingredient_list {
+    font-size: 16px;
+}
+
+.ingredient_title h5,h6 {
+    background-color: $tundora;
+    padding: 8px;
+    color: $white;
+}
