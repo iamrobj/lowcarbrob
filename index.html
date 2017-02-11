@@ -12,7 +12,7 @@ layout: default
                         <a href="{{site.baseurl}}{{post.url}}" class="post-thumbnail"><img src="{{ "/images/posts/" | append: post.image | prepend: site.baseurl }}" alt="{% if post.image_alt %}{{ post.image_alt }}{% else %}{{ post.title }} {% endif %}"></a>
                         {% endif %}
                         {% if post.show_title %}
-                            <h2 class="entry-title post-title" style="background-color:rgba({{ post.title-bg-color }}, 0.5); color:{{ post.title-text-color }};">{{post.title}}</h2> 
+                            <h2 class="entry-title post-title" style="background-color:rgba({{ post.title-bg-color }}); color:{{ post.title-text-color }};">{{post.title}}</h2> 
                         {% endif %}
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
