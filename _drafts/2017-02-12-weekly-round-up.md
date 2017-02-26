@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "#Lowcarb recipes: Weekly Round-up"
-date:  2017-02-12
+date:  2017-02-20
 author: Rob J
-permalink: /weekly_roundup_06_02_2017/
-image: /posts/weekly_roundup_06_02_2017.jpg
+permalink: /weekly_roundup_20_02_2017/
+image: /posts/weekly_roundup_20_02_2017.jpg
 show_title: true
 tags: [weekly-roundup]
 ---
@@ -15,6 +15,12 @@ I'll say upfront, I _may_ not have cooked any of these recipes... Yet.  My "to-c
 So without further ado - here's the best low carb recipes I've discovered this past week!  Feel free to point out any I might've missed in the comments :)
 
 #### Best low carb recipes this week
+* First up, these [Mocha Cheesecake Bars](http://www.ruled.me/mocha-cheesecake-bars/){:target="_blank"} from [@RuledMe](https://www.instagram.com/ruledme/){:target="_blank"} look AMAZING!  And they have mocha in the title, which means coffee flavor, which means I'm in.  If there's coffee flavor I'm always in 😎
+* Not gonna lie, this [Low Carb Samoa Layer Cake](http://alldayidreamaboutfood.com/2017/02/low-carb-samoa-layer-cake.html) from [@dreamaboutfood](https://twitter.com/dreamaboutfood) looks like way too many ingredients for me (my time limit to put things together is about 5 mins 😅) but look at it.  Seriously.  I think I'd break my rule for this bad boy.
+* SUPER easy [Stuffed Tomato](http://lowcarbyum.com/stuffed-tomatoes-with-meat-cheese/) recipe to make, from [@lowcarbyum](http://twitter.com/lowcarbyum).  'Nuff said 😎
+* This one is definitely on my to-cook list.
+http://www.ruled.me/bolognese-zoodle-bake/
+
 * Having recently bought a ramekin dish I cannot wait to give this  [Strawberry Coconut Flour Mug Cake](http://lowcarbyum.com/strawberry-coconut-flour-mug-cake-paleo/){:target="_blank"} recipe from [@lowcarbyum](https://twitter.com/lowcarbyum){:target="_blank"} a go!  (I know it clearly says _mug_ cake - but I like to be different 😅)
 * [Bacon wrapped Chicken Tenders](http://lowcarbyum.com/oven-baked-bacon-wrapped-chicken-tenders/){:target="_blank"} - The title says bacon.  'Nuff said.
 * Now these [1 minute keto muffins](http://www.ditchthecarbs.com/2017/01/25/1-minute-keto-muffins/){:target="_blank"} from [@ditchthe_carbs](https://twitter.com/ditchthe_carbs){:target="_blank"} I actually made.  Super easy to make, tons of things you an do with them.  I went for a savoury & a sweet.  My DIY parmesean & basil experiment definitely needs work 😂  but the cinnamon one I made was goooood!
