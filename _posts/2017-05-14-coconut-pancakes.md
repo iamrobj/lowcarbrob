@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coconut Pancakes"
+title:  "Coconut Pancakes (gluten/dairy free)"
 date:  2017-05-14
 author: Rob J
 permalink: /coconut_pancakes/
