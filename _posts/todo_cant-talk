@@ -1,0 +1,42 @@
+- On/Off
+- Sms/Incoming calls
+- 1 customizable message
+
+Profile - Always
+ - Trigger, manual
+
+Profile
+ - Auto wifi/bluetooth/headphones/geo-fencing/driving/cycling,time
+ - Sms - Contacts
+ - Incoming call - Contacts
+ - Instant Messaging Apps - Contacts
+ - Custom replies (per contact or per app)
+
+Profile
+ - Trigger
+ - Global Reply
+ - List<Contact> sms
+ - List<Contact> incoming call
+* - List<Instant messaging apps>
+ - History (when enabled/disabled)
+ - Log (replied to)
+
+Trigger
+ - Enum (BT, HP, WiFi etc)
+ - Unique Id (for BT, Wifi etc)
+
+Contact
+ - Contact_Id (can be all, contacts only)
+ - Reply contact_specific_reply
+
+Reply
+ - uuid
+ - reply string
+
+Create profile screens
+ - Main screen (Reply to send, sms, calls, app list, advanced aka settings, custom responses, history (of active), sent log list)
+ - Reply input as a popup ??
+ - Sms is base contact list with enable/disable, all & unknown options
+ - Calls is base contact list with enable/disable, all & unknown options
+ - App list is app list with enable/disable, all option
+ - Custom responses (list with option to add contact specific response - make it global across sms, app, calls etc for now, granular in future)
