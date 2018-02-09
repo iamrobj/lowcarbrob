@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Dairy Free Chicken Tikka"
-date:  2017-05-22
+title:  "Coconut Cauliflower Rice"
+date:  2017-07-12
 author: Rob J
-permalink: /chicken_tikka/
-image: /chicken_tikka.jpg
+permalink: /coco_cauli_rice/
+image: /coco_cauli_rice.jpg
 show_title: true
-tags: [recipe, chicken, indian]
+tags: [recipe, rice, indian]
 [//]: # (title-bg-color: '103, 43, 32, 0.7')
 [//]: # (title-text-color: '#ffffff')
 ---
@@ -17,37 +17,35 @@ And of course like everything I cook, the ingredients list is short, the cooking
 
 ---
 
-### Chicken Tikka
+### Coconut Cauliflower Rice
 __*Macros per servings (makes 10):*__ _11.7g protein, 1.8g carbs & 7g fat (total 118 kcal)_  
-__*Prep time:*__ _1 min;_ __*Cook time:*__ _9 mins;_ __*Total time:*__ _10 mins._
+__*Prep time:*__ _5 min;_ __*Cook time:*__ _15 mins;_ __*Total time:*__ _20 mins._
 
 <h5 class='ingredient_title' markdown='1'>
 Ingredients
 </h5>
 
 <div class='ingredient_list' markdown='1'>
-* 500g diced Chicken breast
-* 1 can coconut milk (400ml)
-* 1 thumb sized piece of Ginger
-* 4 cloves of Garlic
-* 3 red Chillies
-* 1 large Tomato
-* 2 tsp Soy Sauce
-* 1 tsp Tumeric powder
-* 1 tsp Chilli powder
-* 1/2 Lemon's juice
+* 1 large cauliflower
+* 2 - 3 tbsp coconut milk
+* 3 cloves of garlic
+* 1 stick lemon grass
+* 1 tbsp coconut oil
 * Pinch of sea salt
 </div>  
 <h5 class='ingredient_title' markdown='1'>
 Instructions
 </h5>
-1. Put all the ingredients (except the chicken) into a blender and blend to make the marinade.  (About 15 seconds on a NutriBullet)  If you don't have a blender whipping in a bowl also works 👌
-2. Put the chicken in a bowl or dish & entirely cover with the marinade.
-3. Place in the fridge for at least 6 hours.
-4. After 6 hours, line a baking tray with foil & lightly apply some oil to stop the chicken sticking.
-5. Place the chicken pieces on the tray, evenly spaced.  (You can also put them on skewers if you want instead of on a tray)
-6. Put under the grill on medium heat until the top starts to slightly brown (takes about 10 min on my grill).
-7. Turn the chicken pieces over & grill until cooked (cut one open once they're sufficiently brown to make sure they're no longer pink inside).
-8. Enjoy 😁
+1. Cut all the florets off the caulfilower, you want as little stalk as possible.
+2. Put the florets into a blender & blend until you have fine rice sized pieces.  (tip: blending the florets in batches is much easier than trying to do the whole lot at once)
+3. Now you want to drain as much water from the cauliflower as possible.  I use a nut milk bag to do this, but if you don't have one you can easily wrap the cauliflower in a tea towel and wring all the water out.
+4. Finely chop the garlic & lemongrass.
+5. Put a tablespoon of coconut oil in a pot on medium heat.
+6. Throw in the chopped garlic & lemon grass.
+7. After a minute throw in the cauliflower & stir.
+8. Cook for about 10 mins or until it starts to brown, stir every minute or so.
+9. Add the coconut milk, stir well.
+10. Leave on a low height for another 5 mins or so, until the mix starts to dry out a bit.
+11. And you're done!  Enjoy 😁
 ---
 
