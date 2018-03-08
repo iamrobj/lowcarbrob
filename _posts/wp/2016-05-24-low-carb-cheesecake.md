@@ -4,7 +4,7 @@ title: Low Carb Cheesecake
 date: 2016-05-24T17:45:45+00:00
 author: Rob J
 layout: post
-permalink: /low-carb-cheesecake/
+permalink: /cheesecake/
 yuzo_related_post_metabox:
   - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
 dsq_thread_id:
